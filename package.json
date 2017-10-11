@@ -27,6 +27,7 @@
     "@types/node": "^7.0.14",
     "del": "^2.2.2",
     "node-sass": "^4.5.3",
+    "rollup": "^0.50.0",
     "rollup-plugin-angular": "^0.4.4",
     "rollup-plugin-commonjs": "^8.0.2",
     "rollup-plugin-node-resolve": "^3.0.0",
